@@ -20,7 +20,7 @@ A vaga é para Estagiário Desenvolvedor.
       Atributos: CPF, Nome, Endereco, Telefone, Data do último serviço
     ```
 
-  Objetivo do Desafio: Desenvolver uma api que tenha uma função de crud para manter os cadastros.    
+  Objetivo do Desafio: Desenvolver uma api que tenha uma função de crud para manter os cadastros das pessoas.    
   
     
   - Pré-requisitos:
