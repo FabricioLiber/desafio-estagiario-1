@@ -20,7 +20,7 @@ A vaga é para Estagiário Desenvolvedor.
       Atributos: CPF, Nome, Endereco, Telefone, Data do último serviço
     ```
 
-  Objetivo do Desafio: Desenvolver uma api que tenha uma função de crud para manter os cadastros das pessoas.    
+  Objetivo do Desafio: Desenvolver uma api que tenha uma função de CRUD para manter os cadastros das pessoas.    
   
     
   - Pré-requisitos:
@@ -50,22 +50,20 @@ A vaga é para Estagiário Desenvolvedor.
     * Front
     ```
 
-  - Extra/Bônus (não Obrigatório)
+  - Extra/Bônus (Não Obrigatório)
     ```
     * Implementar testes unitários
     ```
   
   - O que vamos avaliar:
     ```
-    * Seu código; 
-    * Organização;
+    * Organização de código;
     * Boas práticas;
     ```
 
 ### Instruções
         1. Crie um projeto no gitlab ou github;
         2. Desenvolva. Você terá 5 (cinco) dias a partir da data do envio do desafio; 
-        3. Crie um arquivo de texto com a nomenclatura README.MD com a explicação de como devemos executar o 
+        3. Crie um arquivo de texto com a nomenclatura README.md com a explicação de como devemos executar o 
         projeto e com uma descrição do que foi feito; 
         4. Envie o link do projeto responsendo ao email enviado.
-
