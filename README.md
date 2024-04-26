@@ -28,6 +28,10 @@ A vaga é para Estagiário Desenvolvedor.
     * Utilização de banco de dados Oracle, MySQL, H2, Postgres ou qualquer outro banco relacional.
     * Java 17+
     * Maven
+    * Spring
+      * Spring Boot
+      * Spring Data JPA
+      * Spring Web
     * Swagger
 
     ```
@@ -45,25 +49,27 @@ A vaga é para Estagiário Desenvolvedor.
 
     ```
 
-  - Não precisa desenvolver:
-    ```
-    * Front
-    ```
+  - Não vamos levar em consideração qualquer desenvolvimento de front-end, por isso caso desejem adicionar algumas ferramentas extras foquem nas seguintes ações (passo não obrigatório):
 
-  - Extra/Bônus (Não Obrigatório)
     ```
-    * Implementar testes unitários
+    * Deploy da aplicação em Docker;
+
+    * Deploy da aplicação na web (cloud). Exemplo de ferramenta: Heroku;
+
+    * Implementação do Spring Security;
+
+    * Implementação de testes unitários com JUnit.
     ```
   
-  - O que vamos avaliar:
+  - Nossa avaliação vai ser baseada nos seguintes pontos:
     ```
     * Organização de código;
-    * Boas práticas;
+    * Boas práticas para o desenvolvimento de software;
     ```
 
 ### Instruções
         1. Crie um projeto no gitlab ou github;
-        2. Desenvolva. Você terá 5 (cinco) dias a partir da data do envio do desafio; 
+        2. Desenvolva. Você terá até o dia 01/05/2024 às 23:59:59 para realizar envio do desafio; 
         3. Crie um arquivo de texto com a nomenclatura README.md com a explicação de como devemos executar o 
-        projeto e com uma descrição do que foi feito; 
+        projeto e com uma descrição do que foi feito;
         4. Envie o link do projeto responsendo ao email enviado.
